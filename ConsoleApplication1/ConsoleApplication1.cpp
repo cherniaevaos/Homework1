@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World new! How old are you? \n";
 
-    std::cout << "Hello World. How are you new!12345...\n";
+    std::cout << "How are you new!12345...\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
