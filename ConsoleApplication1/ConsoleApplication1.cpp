@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World new! How old are you? 123456--\n";
+    std::cout << "Hello World new! How old are you? \n";
 
     std::cout << "Hello World. How are you new!12345...\n";
 }
